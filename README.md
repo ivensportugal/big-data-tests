@@ -5,4 +5,3 @@ Projects' level of maturity varies. One may find 'Hello Word', 'Word Count', or 
 The projects here are to be executed on either Hadoop/MapReduce or Spark.
 The main languages are Scala and Java.
 
-database found on: https://archive.ics.uci.edu/ml/datasets/GPS+Trajectories
